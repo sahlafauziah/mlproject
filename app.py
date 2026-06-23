@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import pickle
@@ -75,4 +74,3 @@ st.markdown("---")
 st.caption(
     "Machine Learning Project - Random Forest untuk Prediksi Harga Beras Nasional"
 )
-```
